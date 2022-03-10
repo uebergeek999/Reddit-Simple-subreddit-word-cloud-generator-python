@@ -4,3 +4,6 @@ Python Jupyter notebook that prompts you for a subreddit's name, and generates a
 Uses PRAW to scrap a subreddit for text data, from the top 10 hot posts, then cleans the data using regex, stop words and lemmanizing the data. Cleaned data is then run through a basic word cloud generator and the file is saved to disk
 
 Thank you!! :)
+
+
+![Foo](wordcloud.png)
