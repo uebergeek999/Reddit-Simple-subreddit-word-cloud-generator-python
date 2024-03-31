@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 Subreddit word cloud generator-Copy1.ipynb
 AJA-Subreddit word cloud generator.ipynb
+.DS_Store
