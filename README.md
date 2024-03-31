@@ -1,3 +1,6 @@
+# uebergeek999 fork of John Gee's subreddit wordcloud generator. 
+Includes bug fix downloads to resolve nltk errors and a revision of the image generator to improve resolution.
+
 # Reddit Simple subreddit word cloud generator python using PRAW
 Python Jupyter notebook that prompts you for a subreddit's name, and generates a word cloud of the top 10 posts and saves word cloud to file
 
