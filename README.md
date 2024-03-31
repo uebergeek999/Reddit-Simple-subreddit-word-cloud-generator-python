@@ -1,5 +1,5 @@
 # uebergeek999 fork of John Gee's subreddit wordcloud generator. 
-Includes bug fix downloads to resolve nltk errors and a revision of the image generator to improve resolution.
+Includes bug fixes to resolve various errors and a revision of the image generator to improve resolution.
 
 --------------------------------------------------
 
